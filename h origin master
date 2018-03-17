@@ -1,0 +1,53 @@
+[33mcommit a7fd465a7bd7fa7eee36a5d3d5b8b28d3bc252e8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: EC2 Default User <ec2-user@ip-172-31-13-81.us-east-2.compute.internal>
+Date:   Sat Mar 17 07:34:01 2018 +0000
+
+    bootstrap design
+
+[33mcommit a46ea1a9cab59aa2179fccdb01a9c26643058674[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: EC2 Default User <ec2-user@ip-172-31-13-81.us-east-2.compute.internal>
+Date:   Thu Mar 15 12:38:59 2018 +0000
+
+    bootstrap design
+
+[33mcommit 03219b4843f760f26109bd1975b7687c784cec08[m
+Author: EC2 Default User <ec2-user@ip-172-31-13-81.us-east-2.compute.internal>
+Date:   Thu Mar 15 09:08:17 2018 +0000
+
+    add column
+
+[33mcommit 0b6dc34e8d593358ff09ffb8db68e50f8b1af407[m
+Author: EC2 Default User <ec2-user@ip-172-31-13-81.us-east-2.compute.internal>
+Date:   Thu Mar 15 08:15:40 2018 +0000
+
+    tuika
+
+[33mcommit da48a0b991cdc8e2b128552490b344d96d7d4ec7[m[33m ([m[1;31morigin/kadai-tasklist[m[33m, [m[1;32mkadai-tasklist[m[33m)[m
+Author: EC2 Default User <ec2-user@ip-172-31-13-81.us-east-2.compute.internal>
+Date:   Wed Mar 14 12:33:50 2018 +0000
+
+    add kadai-tasklist
+
+[33mcommit 72b5ee4a6388c4919cd24c09b3f03c27ec17a0fc[m
+Author: EC2 Default User <ec2-user@ip-172-31-13-81.us-east-2.compute.internal>
+Date:   Wed Mar 14 11:45:32 2018 +0000
+
+    kadai-tasklist
+
+[33mcommit 8c188c9399095583b2fb1f5a7ef5b4e9bb39241c[m
+Author: EC2 Default User <ec2-user@ip-172-31-13-81.us-east-2.compute.internal>
+Date:   Wed Mar 14 06:55:56 2018 +0000
+
+     kadai-tasklist
+
+[33mcommit 0d27f5bf5d4e12b79ecda5e959017e3f06df6f0b[m
+Author: EC2 Default User <ec2-user@ip-172-31-13-81.us-east-2.compute.internal>
+Date:   Tue Mar 13 08:35:34 2018 +0000
+
+    kadai-tasklist
+
+[33mcommit 0aa56f4bf3b0003f78982e6ae851cf3b412549f3[m
+Author: EC2 Default User <ec2-user@ip-172-31-13-81.us-east-2.compute.internal>
+Date:   Tue Mar 13 06:58:20 2018 +0000
+
+    init Rails Project
